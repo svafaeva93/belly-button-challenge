@@ -2,7 +2,7 @@
 
 ![bacteria](https://github.com/svafaeva93/belly-button-challenge/assets/124627601/d0cd7617-6ca2-4d58-abda-90bb0dba0aa1)
 
-Background
+_Background_
 
 This assignment required building an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
 
