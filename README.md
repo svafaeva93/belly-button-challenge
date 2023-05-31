@@ -44,7 +44,7 @@ Complete the following steps:
 
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
 
-Advanced Challenge Assignment 
+_Advanced Challenge Assignment_ 
 
 The following task is advanced and therefore optional.
 
