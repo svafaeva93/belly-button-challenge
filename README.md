@@ -1,4 +1,4 @@
-# belly-button-challenge
+# Belly Button Biodiversity Challenge 
 
 ![bacteria](https://github.com/svafaeva93/belly-button-challenge/assets/124627601/d0cd7617-6ca2-4d58-abda-90bb0dba0aa1)
 
